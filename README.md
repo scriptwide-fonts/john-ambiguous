@@ -1,6 +1,9 @@
 # John Ambiguous
 
 <img width="1840" height="96" alt="image" src="https://github.com/user-attachments/assets/53653119-e268-43ee-9d85-d54e0757b0b1" />
+"/Meu guitarrista é furry. 3.141592653589793238"
+
+---
 
 Legibility is for the weak. (Not) named after the (fictional) 19th-century typographer John Ambiguous, this font honors his belief that readability is a sin, ~~the same way that empathy is also a sin~~. Why fixate on "hyper-legible" typefaces, when you can guess what you're looking at?
 
