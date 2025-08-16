@@ -16,3 +16,5 @@ Available in only one weight because I can't figure out variable fonts.
   * Yes, but why would you use it?
 * Erm, excuse me, my full legal name is also John Ambiguous, and this font infringes on my rights. I would like you to take this down, or else I'll see you in court.
   * Okay, John Ambiguous.
+* Your font is based on Ume-P-Mincho. Does this mean you're infringing their copyright?
+  * No, as this font preserves its public domain-equivalent Mplus Font License.
