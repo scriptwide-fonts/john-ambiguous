@@ -1,7 +1,7 @@
 # John Ambiguous
 
 <img width="1840" height="96" alt="image" src="https://github.com/user-attachments/assets/53653119-e268-43ee-9d85-d54e0757b0b1" />
-"/Meu guitarrista é furry. 3.141592653589793238"
+"/Meu guitarrista é furry. 3.14159265358979323"
 
 ---
 
